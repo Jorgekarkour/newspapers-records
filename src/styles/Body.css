@@ -1,0 +1,14 @@
+.body {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 0 50px;
+    text-align: justify;
+    background: #E0DFD5;
+    color: #313638;
+    min-height: 82vh;
+}
+
+#no-data {
+    display: none;
+}

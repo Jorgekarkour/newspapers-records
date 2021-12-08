@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    flex: 0 0 auto;
+    height: 84px;
+    padding: 0 50px;
+    line-height: 84px;
+    background: #313638;
+    justify-content: center;
+}
+
+h1 {
+    color: #F06543;
+    flex: 1 0 auto;
+
+}

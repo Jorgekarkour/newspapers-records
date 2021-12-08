@@ -1,0 +1,9 @@
+button {
+    background: #F09D51;
+}
+
+.ant-btn-primary:active, .ant-btn-primary {
+    color: #313638;
+    border-color: #F09D51;
+    background: #F09D51;
+    }
